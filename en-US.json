@@ -1,9 +1,4 @@
 {
-    "One": "ONE!!!!!",
-    "Two": "This is Two from GitHub",
-    "Three": "This is three.",
-    "Five": "This is Five from the template",
-    "Six": "This is six",
-    "Ten": "This is ten for the template",
-    "Eleven": "There are 11 players in a soccer team"
+    "Title": "This is Title",
+    "Body": "This is Body"
 }
